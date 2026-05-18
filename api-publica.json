@@ -1,0 +1,112 @@
+{
+  "apis": [
+    {
+      "name": "Rick and Morty API",
+      "theme": "TV / Animation",
+      "base_url": "https://rickandmortyapi.com/api/",
+      "description": "Dados de personagens, episódios, localizações de Rick & Morty."
+    },
+    {
+      "name": "PokéAPI",
+      "theme": "Games / Pokémon",
+      "base_url": "https://pokeapi.co/api/v2/",
+      "description": "API RESTful para dados de Pokémon, habilidades, tipos, etc."
+    },
+    {
+      "name": "NASA Open APIs",
+      "theme": "Space / Science",
+      "base_url": "https://api.nasa.gov/",
+      "description": "Portal de APIs públicas da NASA – imagens, missões, dados espaciais."
+    },
+    {
+      "name": "Marvel Comics API",
+      "theme": "Comics / Superheroes",
+      "base_url": "https://gateway.marvel.com/v1/public/",
+      "description": "Dados da Marvel: personagens, quadrinhos, eventos. Requer chave de API."
+    },
+    {
+      "name": "Star Wars API (SWAPI)",
+      "theme": "Movies / Sci-fi",
+      "base_url": "https://swapi.dev/api/",
+      "description": "API pública para dados de Star Wars: filmes, personagens, planetas, etc."
+    },
+    {
+      "name": "Riot Games API",
+      "theme": "Games / League of Legends",
+      "base_url": "https://developer.riotgames.com/",
+      "description": "Dados oficiais de jogos da Riot (League of Legends, etc.). Requer registro."
+    },
+    {
+      "name": "Anime / Manga APIs (ex: Jikan, AniList)",
+      "theme": "Anime / Manga",
+      "base_url": "https://jikan.moe/api/v4/",
+      "description": "APIs não-oficiais para dados de anime/manga (ex: MyAnimeList) e personagens."
+    },
+    {
+      "name": "Studio Ghibli API",
+      "theme": "Movies / Animation",
+      "base_url": "https://ghibliapi.vercel.app/",
+      "description": "Dados de filmes, personagens e locações dos estúdios Ghibli."
+    },
+    {
+      "name": "TheMealDB",
+      "theme": "Food & Drink / Recipes",
+      "base_url": "https://www.themealdb.com/api/json/v1/1/",
+      "description": "API pública de receitas de refeições, ingredientes, categorias."
+    },
+    {
+      "name": "TheCocktailDB",
+      "theme": "Food & Drink / Cocktails",
+      "base_url": "https://www.thecocktaildb.com/api/json/v1/1/",
+      "description": "API pública para coquetéis, receitas, ingredientes e imagens."
+    },
+    {
+      "name": "Open Brewery DB",
+      "theme": "Food & Drink / Breweries",
+      "base_url": "https://api.openbrewerydb.org/",
+      "description": "Dados de cervejarias, brewpubs e fabricantes de cerveja."
+    },
+    {
+      "name": "An API of Ice and Fire",
+      "theme": "Books / Fantasy",
+      "base_url": "https://anapioficeandfire.com/api/",
+      "description": "API para o universo de A Song of Ice and Fire / Game of Thrones."
+    },
+    {
+      "name": "Disney API (não oficial)",
+      "theme": "Movies / Disney",
+      "base_url": "https://api.disneyapi.dev/",
+      "description": "API não-oficial para personagens, filmes e séries da Disney."
+    },
+    {
+      "name": "Breaking Bad API",
+      "theme": "TV / Drama",
+      "base_url": "https://breakingbadapi.com/api/",
+      "description": "API com dados de personagens, episódios e citações de Breaking Bad."
+    },
+    {
+      "name": "Harry Potter API",
+      "theme": "Movies / Fantasy",
+      "base_url": "https://hp-api.onrender.com/api/",
+      "description": "API gratuita com personagens, casas e feitiços do universo Harry Potter."
+    },
+    {
+      "name": "OpenWeatherMap API",
+      "theme": "Weather / Science",
+      "base_url": "https://api.openweathermap.org/data/2.5/",
+      "description": "API pública para dados meteorológicos globais. Requer chave gratuita."
+    },
+    {
+      "name": "Public APIs Directory",
+      "theme": "Meta / Directory",
+      "base_url": "https://api.publicapis.org/",
+      "description": "Catálogo de APIs públicas categorizadas (meta-API)."
+    },
+    {
+      "name": "Dog CEO API",
+      "theme": "Animals / Dogs",
+      "base_url": "https://dog.ceo/api/",
+      "description": "API divertida para imagens e raças de cachorros."
+    }
+  ]
+}
